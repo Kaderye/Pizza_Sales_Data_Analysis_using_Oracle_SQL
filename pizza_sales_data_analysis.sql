@@ -1,5 +1,5 @@
 /*
-Project Name: Pizza Sales Data Analysis
+Project Name: Pizza Sales Data Analysis using Oracle SQL
 Developed by Golam Kaderye
 */
 
